@@ -2,11 +2,11 @@
 ```
 {
   "firstName": "Ak", 
-  "lastName": "Lin Curtek", 
+  "lastName": "Hashvil", 
   "middleName": "Yair", 
-  "birthYear": "MM",
-  "knownLanguages": "GOLANG", "HTML/CSS", "BASH", "JAVASCRIPT", "X86ASEMBLY",
-  "activeSkillset": "LINUX SERVER ADMINISTRATION", "APPLICATION DEVELOPMENT"
+  "birthYear": "MCMXCVIII",
+  "knownLanguages": "C", "GOLANG", "RUST", "JAVASCRIPT", "BASH"
+  "activeSkillset": "STRATEGY", "ARCHITECTURE", "ENGINEERING"
 }
 ```
 
